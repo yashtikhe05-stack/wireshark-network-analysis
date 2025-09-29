@@ -1,0 +1,7 @@
+# Wireshark Network Analysis
+
+## ICMP / Ping Test
+**Command:** ping -c 6 8.8.8.8  
+**Filter used in Wireshark:** icmp  
+**Observation:** Echo Request and Reply packets captured successfully.  
+**Capture file:** [capture1.pcapng](captures/capture1.pcapng)
